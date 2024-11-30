@@ -161,3 +161,36 @@ yourProgram();
 - cacheClose *shows when the server closes, you don't need to listen to it!*
 - cacheMessage *receives messages from the cache-server, you don't need to listen to it!*
 - cacheRequest *receives requets from the cache-server, you don't need to listen to it!*
+
+
+
+
+
+
+
+////////////////=======================================////////////////////////////////////
+
+
+Notas Adicionales:
+
+Este proyecto no ha sido arreglado por mi. Sin embargo, se ha almacenado con fines de evitar **Lost media**
+
+Un proyecto lost media quiere decir que se ha borrado y ya no hay enlaces de descarga
+
+Link proyecto original: https://github.com/CDev-Discords/remote-sqlite-database-Fixed-Edition.git
+
+
+////////////////////////////////////////////////////////////////////////////////////////////
+
+
+**Cosas a considerar:**
+
+Para instalarlo usa *npm install https://github.com/dewstouh/remote-sqlite-database* 
+
+**o** 
+
+*npm install https://github.com/CDev-Discords/remote-sqlite-database-Fixed-Edition.git*
+
+La aplicación de este fix al bot de milrato ha sido hecha por mí
+
+Para cualquier consulta vete al servidor de **cdev: https://discord.gg/n6wrXqptrE**
