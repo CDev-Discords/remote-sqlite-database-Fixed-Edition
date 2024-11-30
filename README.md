@@ -177,7 +177,7 @@ Este proyecto no ha sido arreglado por mi. Sin embargo, se ha almacenado con fin
 
 Un proyecto lost media quiere decir que se ha borrado y ya no hay enlaces de descarga
 
-Link proyecto original: https://github.com/CDev-Discords/remote-sqlite-database-Fixed-Edition.git
+Link proyecto original: [https://github.com/CDev-Discords/remote-sqlite-database-Fixed-Edition.git](https://github.com/dewstouh/remote-sqlite-database)
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////
